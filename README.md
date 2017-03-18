@@ -8,6 +8,10 @@ cryptography should be done.
 There are individual README files in each example's subdirectory that contain
 further details.
 
+This software is released into the public domain under the terms of
+http://unlicense.org/ . The point is that you should feel free (and safe) to
+copy it!
+
 ## Good example list
 
 - **hmac**: hash-based message authentication code. Use this if you want to
